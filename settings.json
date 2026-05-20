@@ -8,7 +8,7 @@
   "server": {
     "ip": "newsmprahy.aternos.me",
     "port": 33235,
-    "version": "26.1.2",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
